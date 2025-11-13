@@ -45,9 +45,9 @@
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -67,9 +67,9 @@ node index.js</code></pre>
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -93,9 +93,9 @@ node index.js</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -114,9 +114,9 @@ node index.js</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -182,9 +182,9 @@ sudo apt install npm</code></pre>
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -263,9 +263,9 @@ echo 'alias node="/opt/local/bin/node"' >> ~/bashrc_folder/macports_alias</code>
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -369,9 +369,9 @@ pacman --sync npm</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
@@ -390,9 +390,9 @@ node index.js</code></pre>
 <div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
-cd workDirectory_executeNamedExportFunction
+cd work-directory_execute-named-export-function
 npm init -y
-npm install ../install_executeNamedExportFunction
+npm install ../install_execute-named-export-function
 node index.js</code></pre>
 
 
