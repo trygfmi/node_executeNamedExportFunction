@@ -48,6 +48,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -70,6 +72,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -96,6 +100,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -117,6 +123,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -185,6 +193,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -266,6 +276,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -372,6 +384,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
@@ -393,6 +407,8 @@ cd node_executeNamedExportFunction
 cd work-directory_execute-named-export-function
 npm init -y
 npm install ../install_execute-named-export-function
+cat ../install_execute-named-export-function/index.js
+cat index.js
 node index.js</code></pre>
 
 
