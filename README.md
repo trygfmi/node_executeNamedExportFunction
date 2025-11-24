@@ -4,7 +4,7 @@
 
 
 <div class="wp-block-group">
-<p>このリポジトリは、nodeコマンドを実行して外部パッケージの名前付き関数を実行します</p>
+<p>このリポジトリは、nodeコマンドを実行してインストールした外部パッケージに記述された名前付き関数を実行します</p>
 </div>
 
 
@@ -66,6 +66,10 @@ node index.js</code></pre>
 
 
 <div class="wp-block-group">
+<h4 class="wp-block-heading">macports</h4>
+
+
+
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git clone https://github.com/trygfmi/node_executeNamedExportFunction
 cd node_executeNamedExportFunction
@@ -154,13 +158,13 @@ node index.js</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドを端末に打ち込んでcommand not foundが出なければokです</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>git --version
 npm --version
 node --version</code></pre>
+</div>
 
 
 
@@ -170,12 +174,12 @@ node --version</code></pre>
 
 <div class="wp-block-group">
 <p>端末にcommand not foundが出たコマンドを以下のコマンドでインストールしてください</p>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>sudo apt install git
 sudo apt install npm</code></pre>
+</div>
 
 
 
@@ -218,11 +222,9 @@ node index.js</code></pre>
 
 <div class="wp-block-group">
 <p>以下のコマンドをターミナルに打ち込んでcommand not foundが出なければokです</p>
-</div>
 
 
 
-<div class="wp-block-group">
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>source ~/bashrc_folder/macports_alias
 git --version
 npm --version
@@ -249,7 +251,6 @@ node --version</code></pre>
 
 <div class="wp-block-group">
 <p>ターミナルでcommand not foundが出たコマンドを以下のコマンドでインストールしてエイリアスを設定してください</p>
-</div>
 
 
 
@@ -258,6 +259,7 @@ echo 'alias git="/opt/local/bin/git"' >> ~/bashrc_folder/macports_alias
 sudo port install npm10
 echo 'alias npm="/opt/local/bin/npm"' >> ~/bashrc_folder/macports_alias
 echo 'alias node="/opt/local/bin/node"' >> ~/bashrc_folder/macports_alias</code></pre>
+</div>
 
 
 
@@ -356,12 +358,12 @@ sudo apt install npm</code></pre>
 
 
 <h5 class="wp-block-heading">MSYS2 MINGW64</h5>
-</div>
 
 
 
 <pre class="wp-block-own-copy-code-line-block wp-block-code has-24292-eff-color has-cyan-bluish-gray-background-color has-text-color has-background has-1-125-rem-font-size"><code>pacman --sync git
 pacman --sync mingw-w64-x86_64-nodejs</code></pre>
+</div>
 
 
 
@@ -429,8 +431,4 @@ node index.js</code></pre>
 
 <div class="wp-block-group">
 <p>module.exports.の後に名前を指定するとその名前で関数を呼べるようになります</p>
-
-
-
-<p></p>
 </div>
